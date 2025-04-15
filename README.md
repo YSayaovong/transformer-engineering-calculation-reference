@@ -1,6 +1,6 @@
 # ⚙️ Transformer Cable & Lead Length Calculator Suite
 
-This Excel-based calculator suite is designed for transformer engineers and detailing specialists to streamline cable selection, part number lookup, and lead length estimation. Built using domain knowledge from real transformer design workflows, this tool simplifies repetitive calculations using a structured, user-friendly interface.
+This Excel-based calculator suite is designed for transformer engineers and detailing specialists to streamline cable selection, part number lookup, and lead length estimation. Built using domain knowledge from real transformer design workflows, this tool simplifies repetitive calculations using a structured, user-friendly interface. Please note that all cables and sizes on this calculator are just mock information.
 
 ---
 
